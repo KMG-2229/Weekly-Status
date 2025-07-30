@@ -66,9 +66,9 @@
   {
     "Employee Name": "Nadeem Khan",
     "Team": "QA",
-    "Work this week": "",
-    "Learned this week": "",
-    "Future work plans": "",
+    "Work this week": "1. Created a Status update sheet where updated the Backlog items from the emails. \n2. Reviewed Backlog items from the Status Update sheet and also maintaining the same with all the tasks from the emails\n3. Worked and analyzed 'Fortegra-Convelo Audit - Surplus Tax Calculations' related queries posted by Fortegra on Report. Consolidated the report with the solutions based on our analysis\n4. Worked on preparing the consolidated list of Dec pages and Insuring Agreements for Auto, GL and Excess and shared the same with Eric Smith.\n5. Working on setting up the Quote Cover Letter Template.\n6. Created test policies data for 9 states and provided the details to Church Mutual to test Quick Solver and Bill It Now integration. ",
+    "Learned this week": "1. Gained deeper insight into the structure and key components of Quote Cover Letters, particularly for the E&S General Liability and Property programs.\n2. Gained Knowledge in understanding the set up and different variations in Surplus line taxes.\n3. Understood the use of Dec pages and Insuring Agreements in Insurance for different LOBs like Auto, GL and Excess.\n4. Learned to create Quote cover letters and their formatting. Also, learned to use tags in the QC ",
+    "Future work plans": "1. Development of Quote cover letters for Admitted and Non-admitted programs.\n2. Setting up Surplus line taxes in IMS. \n3. Attending training on IMS and Bill It Now integration.",
     "Reviewer Comments": ""
   },
   {
@@ -80,19 +80,19 @@
     "Reviewer Comments": ""
   },
   {
-    "Employee Name": "Praveen Kumar",
-    "Team": "QA",
-    "Work this week": "1. Creating the Quotes for Ezlynx Application\n2. Creating the Polices for RI State PAP LOB\n3. Creating test cases and teat data for RI state PAP LOB ",
-    "Learned this week": "I have learnt what an Agent Portal is and what the work of an agent is. How to create Test Cases in an effective way,  how to create a dropdown for different fields in excel sheet.",
-    "Future work plans": "Need to create 200 Quotes for Ezlynx RI state with PAP Lob, creating Policies for PAP RI and ME states in the Quincy Online application. Crating Test Cases and Test Data PAP.  ",
-    "Reviewer Comments": ""
-  },
-  {
     "Employee Name": "Pooja Kholiya",
     "Team": "QA",
     "Work this week": "I did analysis of the user story AX- 5331 BOP FE- Building Level Coverages- Preferred Risk Pop-Up and AX-5464 BOP- Left Navigation Menu for Quote. Also created the test cases for AX-5464.",
     "Learned this week": "",
     "Future work plans": "To do plan - To complete the test case of AX-5464 and execute them.",
+    "Reviewer Comments": ""
+  },
+  {
+    "Employee Name": "Praveen Kumar",
+    "Team": "QA",
+    "Work this week": "1. Creating the Quotes for Ezlynx Application\n2. Creating the Polices for RI State PAP LOB\n3. Creating test cases and teat data for RI state PAP LOB ",
+    "Learned this week": "I have learnt what an Agent Portal is and what the work of an agent is. How to create Test Cases in an effective way,  how to create a dropdown for different fields in excel sheet.",
+    "Future work plans": "Need to create 200 Quotes for Ezlynx RI state with PAP Lob, creating Policies for PAP RI and ME states in the Quincy Online application. Crating Test Cases and Test Data PAP.  ",
     "Reviewer Comments": ""
   },
   {
