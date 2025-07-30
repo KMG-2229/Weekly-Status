@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -59,7 +60,6 @@
             border-bottom: 1px solid var(--border-color);
         }
         
-        /* MODIFIED: Made the team list scrollable */
         .person-selector {
             display: flex;
             flex-direction: column;
@@ -192,7 +192,7 @@
         ul { list-style: none; padding: 0; margin: 0; }
         ul li { 
             position: relative; 
-            padding-left: 25px; 
+            padding-left: 15px; /* MODIFIED: Reduced padding */
             margin-bottom: 10px; 
             line-height: 1.5;
             color: var(--text-light);
@@ -203,8 +203,13 @@
             transform: translateX(3px);
         }
 
-        ul li::before { position: absolute; left: 0; top: 0; font-weight: bold; font-size: 1.1em; }
-        .accomplishments-list li::before { content: '✓'; color: var(--accent-green-dark); }
+        ul li::before {
+            position: absolute;
+            left: 0;
+            top: 0;
+            font-weight: bold;
+            font-size: 1.1em;
+        }
        
         .logo {
             display: block;
@@ -336,28 +341,28 @@
             
             personContentDiv.innerHTML = `
                 <div class="status-tabs">
-                    <button class="status-tab-button active" onclick="openPersonTab(event, '${personId}-worked-this-week')">Worked This Week</button>
-                    <button class="status-tab-button" onclick="openPersonTab(event, '${personId}-learned-this-week')">Learned This Week</button>
-                    <button class="status-tab-button" onclick="openPersonTab(event, '${personId}-work-planned-next-week')">Work Planned Next Week</button>
+                    <button class="status-tab-button active" onclick="openPersonTab(event, '${personId}-worked-last-week')">Worked Last Week</button>
+                    <button class="status-tab-button" onclick="openPersonTab(event, '${personId}-learned-last-week')">Learned Last Week</button>
+                    <button class="status-tab-button" onclick="openPersonTab(event, '${personId}-work-planned-this-week')">Work Planned This Week</button>
                 </div>
-                <div id="${personId}-worked-this-week" class="status-tab-content active">
+                <div id="${personId}-worked-last-week" class="status-tab-content active">
                     <div class="summary-container">
                         <ul class="accomplishments-list">
-                            ${workThisWeek ? `<li>${workThisWeek.split(';').map(s => s.trim()).filter(Boolean).join('</li><li>')}</li>` : '<li>No weekly objectives specified.</li>'}
+                            ${workThisWeek ? `<li>${workThisWeek.split(';').map(s => s.trim()).filter(Boolean).join('</li><li>')}</li>` : '<li>No items reported.</li>'}
                         </ul>
                     </div>
                 </div>
-                <div id="${personId}-learned-this-week" class="status-tab-content">
+                <div id="${personId}-learned-last-week" class="status-tab-content">
                     <div class="summary-container">
                         <ul class="accomplishments-list">
-                            ${learnedThisWeek ? `<li>${learnedThisWeek.split(';').map(s => s.trim()).filter(Boolean).join('</li><li>')}</li>` : '<li>No accomplishments or learnings reported for last week.</li>'}
+                            ${learnedThisWeek ? `<li>${learnedThisWeek.split(';').map(s => s.trim()).filter(Boolean).join('</li><li>')}</li>` : '<li>No items reported.</li>'}
                         </ul>
                     </div>
                 </div>
-                <div id="${personId}-work-planned-next-week" class="status-tab-content">
+                <div id="${personId}-work-planned-this-week" class="status-tab-content">
                     <div class="summary-container">
                         <ul class="accomplishments-list">
-                            ${futureWork ? `<li>${futureWork.split(';').map(s => s.trim()).filter(Boolean).join('</li><li>')}</li>` : '<li>No specific future work plans indicated.</li>'}
+                            ${futureWork ? `<li>${futureWork.split(';').map(s => s.trim()).filter(Boolean).join('</li><li>')}</li>` : '<li>No items reported.</li>'}
                         </ul>
                     </div>
                 </div>
