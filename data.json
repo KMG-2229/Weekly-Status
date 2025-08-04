@@ -4,183 +4,160 @@
     "Team": "QA",
     "Work this week": "",
     "Learned this week": "",
-    "Future work plans": "",
-    "Reviewer Comments": ""
+    "Future work plans": ""
   },
   {
     "Employee Name": "Apoorva Gupta",
     "Team": "QA",
     "Work this week": "This week, I worked on tickets SEQ-3304, SEQ-3301, and SEQ-3328, where I analyzed the requirements, designed relevant test cases, executed them, and raised the defects to validate the expected outcomes for the forms associated with the Businessowners Line of Business (LOB).",
     "Learned this week": "1. Deepened understanding of the Businessowners Line of Business (LOB) and its associated forms.\n2. Improved attention to detail by working with complex forms and multiple input combinations.\n3. Gained experience in coordinating with developers, business analysts, and Clients while clarifying requirements or reporting issues.",
-    "Future work plans": "Continue testing activities for the Businessowners Line of Business (LOB) forms:\n1. Analyze newly developed or modified forms to understand their structure and business logic.\n2. Design comprehensive test scenarios and cases covering all input fields, validations, and dynamic behaviors.\n3. Execute test cases and validate the form functionality against the requirements and expected outcomes.\n4. Log and track any defects identified during testing, and perform retesting after fixes.",
-    "Reviewer Comments": ""
+    "Future work plans": "Continue testing activities for the Businessowners Line of Business (LOB) forms:\n1. Analyze newly developed or modified forms to understand their structure and business logic.\n2. Design comprehensive test scenarios and cases covering all input fields, validations, and dynamic behaviors.\n3. Execute test cases and validate the form functionality against the requirements and expected outcomes.\n4. Log and track any defects identified during testing, and perform retesting after fixes."
   },
   {
     "Employee Name": "Asis Kumar Saha",
     "Team": "QA",
     "Work this week": "RTB-5465 : Change to Wording for CT BOP Pre 1965 and Post 1965 Rating to Pre 1995 in E-Comm and WINS Effective 8/1/25\nTesting completed for WINS part including the defect which was identified during testing.",
     "Learned this week": "N/A",
-    "Future work plans": "Analysing BOP Rate Change Requirement. (RTB-6425)\nRTB-5465 : Will start Ecomm testing once development done.",
-    "Reviewer Comments": ""
+    "Future work plans": "Analysing BOP Rate Change Requirement. (RTB-6425)\nRTB-5465 : Will start Ecomm testing once development done."
   },
   {
     "Employee Name": "Atul Saraswat",
     "Team": "QA",
     "Work this week": "This week, I focused on the creation and review of Tosca scripts for stories TA-869 and TA-870. Additionally, we performed a version upgrade of Tosca Commander, moving from 15.2 P1 to the 2024-25 version. Following the upgrade, we encountered a critical issue—we are currently unable to execute any scripts across the project. This issue has been escalated, and the entire team, including Chaluan, Maggie, and the Cognizant team, is actively investigating it in coordination with the Tosca support team to resolve it as soon as possible.",
     "Learned this week": "Gained experience in handling Tosca version upgrades and understanding their potential impact on existing automation scripts.\n\nImproved cross-team collaboration and incident management while troubleshooting critical issues post-upgrade, including coordinating with external support.",
-    "Future work plans": "Continue working with the Tosca support team to resolve the script execution issue and aim to restore full automation functionality.\n\nOnce the issue is resolved, focus on regression testing of updated scripts and resume scripting for any new stories in the sprint.\n\nDocument the upgrade issue and resolution steps to prevent similar disruptions in future version changes.",
-    "Reviewer Comments": ""
+    "Future work plans": "Continue working with the Tosca support team to resolve the script execution issue and aim to restore full automation functionality.\n\nOnce the issue is resolved, focus on regression testing of updated scripts and resume scripting for any new stories in the sprint.\n\nDocument the upgrade issue and resolution steps to prevent similar disruptions in future version changes."
   },
   {
     "Employee Name": "Ayan Gupta",
     "Team": "QA",
     "Work this week": "I worked on MA HOP Rate change which effective date is 10/05/2025. Done requirement analysis and Test case creation for company NS",
     "Learned this week": "",
-    "Future work plans": "I will continue working on MA HOP Rate change which effective date is 10/05/2025 for QA Testing",
-    "Reviewer Comments": ""
+    "Future work plans": "I will continue working on MA HOP Rate change which effective date is 10/05/2025 for QA Testing"
   },
   {
     "Employee Name": "Divyendu Shekhar",
     "Team": "QA",
     "Work this week": "This week, I focused on analyzing user stories and requirements provided by the NIMBUS team. Working on ticket BPO- Polcy level Optional Coverages for Non Contracter. Additionally, I attended daily Scrum meetings to stay aligned with the team's progress and updates. (Part1 & 2 & 3 & 4)",
     "Learned this week": "Learned Policy level Optional Covrages and work flow. Also learned how can map the requirment with the TC ",
-    "Future work plans": "I will continue analyzing the requirements and proceed with creating BOP (Business Owners Policy) policies. I plan to coordinate with the Business Analyst (BA) to gather updates related to application changes, particularly those involving coverage. I will also attend daily Scrum meetings to stay aligned with the team’s progress.",
-    "Reviewer Comments": ""
+    "Future work plans": "I will continue analyzing the requirements and proceed with creating BOP (Business Owners Policy) policies. I plan to coordinate with the Business Analyst (BA) to gather updates related to application changes, particularly those involving coverage. I will also attend daily Scrum meetings to stay aligned with the team’s progress."
   },
   {
     "Employee Name": "Kushal Khanra",
     "Team": "QA",
     "Work this week": "Focused on the creation and customization of Quote Cover Letters for the Admitted Auto and Admitted Package programs. This included aligning the cover letters with the specific requirements for each program, ensuring accurate display of coverage details, limits, and other critical data. Collaborated with internal teams to gather necessary inputs and incorporated dynamic tags to reflect coverage selections. Addressed formatting and alignment issues to enhance the professional presentation of the documents, ensuring they meet both client expectations and internal compliance standards.",
     "Learned this week": "Gained deeper insight into the structure and key components of Quote Cover Letters, particularly for the Admitted Auto and Admitted Package programs. This included understanding how to effectively communicate program-specific details, ensure compliance with regulatory standards, and tailor content to meet client and market expectations. Additionally, I enhanced my collaboration and document refinement skills through iterative feedback cycles with internal teams.",
-    "Future work plans": "Next week, the focus will shift to developing the Quote Cover Letters for the E&S Package and Admitted Package programs. This will involve gathering program-specific requirements, identifying necessary dynamic tags, and ensuring the cover letters accurately reflect the coverage options, limits, and deductibles selected in the system. We will also ensure consistency in formatting and compliance with underwriting guidelines, while collaborating with relevant stakeholders to validate content accuracy and usability.",
-    "Reviewer Comments": ""
+    "Future work plans": "Next week, the focus will shift to developing the Quote Cover Letters for the E&S Package and Admitted Package programs. This will involve gathering program-specific requirements, identifying necessary dynamic tags, and ensuring the cover letters accurately reflect the coverage options, limits, and deductibles selected in the system. We will also ensure consistency in formatting and compliance with underwriting guidelines, while collaborating with relevant stakeholders to validate content accuracy and usability."
   },
   {
     "Employee Name": "Mahavir.Routhan",
     "Team": "QA",
     "Work this week": "For Amynta program-1, I have worked on 15 ADO board Features tickets having total dollar amount of $545,245 in which one ticket with -ve $9,911 and one having $0. Co-ordinate with BA team for analysing the ticket from netrate and error files, testing of \"Review production' tickets discussed new issues and resolution with internal team as well in the client call. Generate correction file from the client provided utility and analyse the defect has been fixed which is either under underwriter fixed or code fixed. Go through all comments in the ticket and if the correction file is not expected sent back it to grooming and discuss the same with BA team for further analysis or blocked if issue still persist. Attended regular internal BA co-ordination, Tickets discussion, Dev-BA co ordination, client meetings and one to one co-ordination with BA team.",
     "Learned this week": "Uncancel feature of client provided utility where we use the uncancel if the amount is booked for the subsequent error transactions",
-    "Future work plans": "To do plan - To continue with Amynta project activities until all error policies will not fixed by focussing high dollar premium amount first.",
-    "Reviewer Comments": ""
+    "Future work plans": "To do plan - To continue with Amynta project activities until all error policies will not fixed by focussing high dollar premium amount first."
   },
   {
     "Employee Name": "Nadeem Khan",
     "Team": "QA",
     "Work this week": "1. Udpating status sheet where updated the Backlog items from the emails. \n2. Reviewed Backlog items from the Status Update sheet and also maintaining the same with all the tasks from the emails\n3.  Working on setting up the Quote Cover Letter Template.\n4. Working on reviewing the Surplus Line taxes configuration in IMS by Vertafore. New tax logic requires to be implemented as per the latest update from Eric Smith.\n5. Updating Surplus Line new taxes logic as per the latest update for HAB GL Program.",
     "Learned this week": "1. Gained deeper insight into the structure and key components of Quote Cover Letters, particularly for the E&S General Liability and Property programs.\n2. Gained Knowledge in understanding the set up and different variations in Surplus line taxes.\n3. Learned to create Quote cover letters and their formatting. Also, learned to use tags in the QC ",
-    "Future work plans": "1. Development of Quote cover letters for Admitted and Non-admitted programs.\n2. Setting up Surplus line taxes in IMS. ",
-    "Reviewer Comments": ""
+    "Future work plans": "1. Development of Quote cover letters for Admitted and Non-admitted programs.\n2. Setting up Surplus line taxes in IMS. "
   },
   {
     "Employee Name": "Pankaj Rawat",
     "Team": "QA",
     "Work this week": "I worked on RTB-6434-(3 Requirements)   test planning is completed Requirment is saying  CT    Homowners Rate change which effective date is 11/02/2025 before and on or after for comparing old and new rate books . Done requirement analysis and Test case creation for company VM ",
     "Learned this week": "I Learned How to create test plan for HOP Line of Business in Guide-wire and the difference between new worksheet and Old worksheet. ",
-    "Future work plans": "Requirement is in deployment by developer team , if it will deployed then work on execution ",
-    "Reviewer Comments": ""
+    "Future work plans": "Requirement is in deployment by developer team , if it will deployed then work on execution "
   },
   {
     "Employee Name": "Praveen Kumar",
     "Team": "QA",
     "Work this week": "1. Creating the Quotes for Ezlynx Application CT States\n2. Creating the Polices for CT State PAP LOB\n3. Creating test cases and test data for Automation \n4. Running the Automation for PAP RI State and sharing the results with Shubham",
     "Learned this week": "I have learned about how to run the Automation for the Quincy project and how to fix the errors in the Input sheet if any",
-    "Future work plans": "Need to create 200 Quotes for Ezlynx RI state with PAP Lob, creating Policies for PAP CT states in the Quincy Online application. Running Automation for PAP RI State.",
-    "Reviewer Comments": ""
+    "Future work plans": "Need to create 200 Quotes for Ezlynx RI state with PAP Lob, creating Policies for PAP CT states in the Quincy Online application. Running Automation for PAP RI State."
   },
   {
     "Employee Name": "Pooja Kholiya",
     "Team": "QA",
     "Work this week": "Execution of test cases of user story AX-5464 BOP- Left Navigation Menu for Quote. Also raised the 2 defects from this story, had discussion on those defects one defects was change to user stories( For the prompt pop up for unsaved data while navigating to another tab).  One is being fixed( the defect was for color coding of the current tab).",
     "Learned this week": "",
-    "Future work plans": "Will go through the user stories and creating test cases for the same. Meanwhile if any story comes for testing will analyse and execute the test cases.",
-    "Reviewer Comments": ""
+    "Future work plans": "Will go through the user stories and creating test cases for the same. Meanwhile if any story comes for testing will analyse and execute the test cases."
   },
   {
     "Employee Name": "Richa Trivedi",
     "Team": "QA",
     "Work this week": "1. Working on test data creation for the Maine (ME) Personal Auto Policy (PAP).\n2. Executing the test cases based on 2 Driver & 2 Vehicle combinations.\n3. Finding and reporting the defects in the system.",
     "Learned this week": "Familiarized myself with the data combinations relevant to different vehicle classifications.",
-    "Future work plans": "Need to work on more combination of fields and coverages that won't generate any error.",
-    "Reviewer Comments": ""
+    "Future work plans": "Need to work on more combination of fields and coverages that won't generate any error."
   },
   {
     "Employee Name": "Rishab Tyagi",
     "Team": "QA",
     "Work this week": "Worked on Re-Testing of the JIRA tickets raised during the Parallel Testing - Re-tested the fixed tickets in the UAT Environment and ensured that the current fixes do not hamper the existing functionality of the system. After restesting updated the Tickets Status in JIRA as per the Re-testing results. Once Ticket is deployed to PROD perform the Smoke Test  on PROD which involves verifying the stability of key functionalities within the allowed constraints. Since we cannot create new records or modify existing data in the production environment,  validated the deployed changes by performing a limited-scope sanity check. This includes checking the impacted modules or screens , primarily covering UI, navigation, access permissions, and any specific areas touched by the latest release.\nI attended Weekly Project Updates Meetings to Share the update and to stay aligned with the team's progress ",
     "Learned this week": "Through this task, I developed a deeper understanding of the real-time QA lifecycle and the importance of maintaining system stability post-deployment. Key learnings include -\nGained hands-on experience in UAT Re-testing, ensuring that fixes do not impact existing features.Improved proficiency in using JIRA for tracking ticket status and collaborating across teams.Understood the criticality of Smoke Testing in PROD, where validation needs to be precise and low-risk.Learned to identify and validate changes through limited-scope sanity checks, focusing on UI, navigation, permissions, and impacted modules.Enhanced my communication and collaboration skills by actively participating in weekly project update meetings, ensuring alignment with the broader team goals.",
-    "Future work plans": "Take initiative in test case creation and optimization, especially for regression and sanity testing scenarios.\nCollaborate more with the dev and product teams to identify bugs early and improve release quality.\nContinue upskilling to make better defect reports",
-    "Reviewer Comments": ""
+    "Future work plans": "Take initiative in test case creation and optimization, especially for regression and sanity testing scenarios.\nCollaborate more with the dev and product teams to identify bugs early and improve release quality.\nContinue upskilling to make better defect reports"
   },
   {
     "Employee Name": "Sandip Banerjee",
     "Team": "QA",
     "Work this week": "Create Policy at WINS - QA and UAT Env. for Guidewire Policy Center and Billing Center Integration Testing.",
     "Learned this week": "",
-    "Future work plans": "Create Policy Based on the Request from Policy Center and Billing Center Testing Team",
-    "Reviewer Comments": ""
+    "Future work plans": "Create Policy Based on the Request from Policy Center and Billing Center Testing Team"
   },
   {
     "Employee Name": "Seshi Reddy",
     "Team": "QA",
     "Work this week": "1. Sprint -31-E2E Regression Testing\n2. Defects Retesting for S-31.\n3. Convr UI changes and rules when auto populating values in the following Clearance fields in Convr-Design\n4. Add dropdown value Side A in Policy Placement type fiend in Convr-Design\n\n ",
     "Learned this week": "",
-    "Future work plans": "1. Manager Referral - Ability to Attach Files Outside of UWWB-Design\n2. AI Training - Enhance Clearance extraction of Producer fields with Training of email content - email body and attachments-Design\n3. Change the Default for Browse Files to Archive-Execution\n4. Convr to Outlook - Add Ability to Save Email as a 'DRAFT' in Convr-Execution\n5. Defects Testing for S-32.\n6. Continues to working on the Regtression Testing for every Sprint.",
-    "Reviewer Comments": ""
+    "Future work plans": "1. Manager Referral - Ability to Attach Files Outside of UWWB-Design\n2. AI Training - Enhance Clearance extraction of Producer fields with Training of email content - email body and attachments-Design\n3. Change the Default for Browse Files to Archive-Execution\n4. Convr to Outlook - Add Ability to Save Email as a 'DRAFT' in Convr-Execution\n5. Defects Testing for S-32.\n6. Continues to working on the Regtression Testing for every Sprint."
   },
   {
     "Employee Name": "Srishti Lal",
     "Team": "QA",
     "Work this week": "This week, I analyzed user stories for Sprint 2, which focused on data migration activities. I reviewed the premium-bearing coverages available in both the INOW and WINS systems to understand their mapping and consistency and created policies. Additionally, I attended daily Scrum calls and participated in sprint planning meetings to stay aligned with the team's objectives.",
     "Learned this week": "This week, I gained an understanding of CUP (Commercial Umbrella Policy) policies, including their structure and how they function within the application.",
-    "Future work plans": "Next week, I will focus on analyzing user stories and gaining an understanding of the new updates made for BOP (Business Owners Policy) and CUP (Commercial Umbrella Policy) in the INOW system. I will also attend daily stand-up meetings to stay aligned with the team’s updates and progress.",
-    "Reviewer Comments": ""
+    "Future work plans": "Next week, I will focus on analyzing user stories and gaining an understanding of the new updates made for BOP (Business Owners Policy) and CUP (Commercial Umbrella Policy) in the INOW system. I will also attend daily stand-up meetings to stay aligned with the team’s updates and progress."
   },
   {
     "Employee Name": "Subhajit Patra",
     "Team": "QA",
     "Work this week": "I worked on MA Homowners Rate change which effective date is 10/05/2025. Done requirement analysis and Test case creation for Appian part. I am testing PL Rater and Singlepoint scenarios.",
     "Learned this week": "",
-    "Future work plans": "I will continue working on MA Homeowners Rate change which effective date is 10/05/2025 ",
-    "Reviewer Comments": ""
+    "Future work plans": "I will continue working on MA Homeowners Rate change which effective date is 10/05/2025 "
   },
   {
     "Employee Name": "Upendar Reddy",
     "Team": "QA",
     "Work this week": "1. Waiting for client approval for production deployment\n2.Once got approval I will test the production for My FPD sprint 11.2\n3.Tested the sprint 11.2 requirements on production",
     "Learned this week": "I gained a good understanding of User roles and permissions in My FPD application. Found a timezone issue in audit trail when randomly testing by changing the timezones, decided to include this scenario while testing in future sprints",
-    "Future work plans": "1. Got the requirements for sprint 12\n2. Started writing the test cases based on that requirements",
-    "Reviewer Comments": ""
+    "Future work plans": "1. Got the requirements for sprint 12\n2. Started writing the test cases based on that requirements"
   },
   {
     "Employee Name": "Vinay Kumar Reddy",
     "Team": "QA",
     "Work this week": "I worked on RTB-6434 ( 3 child req form main req )  test planning is completed Requirment is saying  CT    Homowners Rate change which effective date is 11/02/2025 before and on or after for comparing old and new rate books . Done requirement analysis and Test case creation for company VM ",
     "Learned this week": "",
-    "Future work plans": "once story is deployed  will start execution for the same ",
-    "Reviewer Comments": ""
+    "Future work plans": "once story is deployed  will start execution for the same "
   },
   {
     "Employee Name": "Ankit Kumar",
     "Team": "RPA",
     "Work this week": "1. Tested and published the Commercial Condo Process.\n2. Completed UiPath modules related to Agentic Prompt Engineering.\n3. Worked on loss run data extraction from PDF files.",
     "Learned this week": "1. Improved understanding of Agentic Automation concepts, including system prompts, user prompts, and tool use via UiPath web.\n2. Enhanced practical knowledge in extracting structured data from semi-structured rotated PDF documents using Computer Vision acitivities.",
-    "Future work plans": "1. Will complete the Agentic Automation Associate Training, which includes Automation Explorer with UiPath Studio Web and Building Agents.\n2.Continue learning and exploring the Power Automate tool.",
-    "Reviewer Comments": ""
+    "Future work plans": "1.Will complete the Agentic Automation Associate Training, which includes Automation Explorer with UiPath Studio Web and Building Agents.\n2.Continue learning and exploring the Power Automate tool."
   },
   {
     "Employee Name": "Shubham Dhyani",
     "Team": "RPA",
     "Work this week": "1. Tested QA Test Sheet Data for New Business and Endorsement. \n2. Updated the New Business workflow.",
     "Learned this week": "I learned how to issue a binder after the quote creation process.",
-    "Future work plans": "I Will contnue to Test for New Business and subsequent transactions and update the scripts if any change occurs.",
-    "Reviewer Comments": ""
+    "Future work plans": "I Will contnue to Test for New Business and subsequent transactions and update the scripts if any change occurs."
   },
   {
     "Employee Name": "Susmita Chakraborty",
     "Team": "RPA",
     "Work this week": "1. Extracted data from a given LossRun file.\n2. I was running the regressions in the IN and UA environments.",
     "Learned this week": "I learned how to issue a binder after the quote creation process.",
-    "Future work plans": "I am continuing to run the Regressions in the IN and UA environments.",
-    "Reviewer Comments": ""
+    "Future work plans": "I am continuing to run the Regressions in the IN and UA environments."
   }
 ]
