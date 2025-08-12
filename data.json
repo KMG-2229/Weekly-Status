@@ -2,11 +2,11 @@
   {
     "Employee Name": "Akash Singh",
     "Team": "QA",
-    "Client Name": "",
-    "Project Name": "",
-    "Work this week": "",
-    "Learned this week": "",
-    "Future work plans": "",
+    "Client Name": "Ascot",
+    "Project Name": "Artemis",
+    "Work this week": "This week, I’m working on Unbind transactions stories using the Postman API and validating them via the IMS UI. I am also engaged in the daily stand-up call with the Ascot QA team ",
+    "Learned this week": "I learned how to create these transactions via the IMS UI. While testing error handling through the API, I verified that when mandatory parameters are missing or empty in the request XML, the response XML should include the appropriate error messages.",
+    "Future work plans": "Next week, I plan to conduct regression testing across all transaction types.\n\n",
     "Reviewer Comments": ""
   },
   {
@@ -42,11 +42,11 @@
   {
     "Employee Name": "Ayan Gupta",
     "Team": "QA",
-    "Client Name": "",
-    "Project Name": "",
-    "Work this week": "",
+    "Client Name": "Vermont",
+    "Project Name": "Run The Business",
+    "Work this week": "I am actively involved in the MA HOP Rate Change ticket, which had an effective implementation date of 10/05/2025. As part of this initiative, I conducted a thorough requirement analysis to understand the scope of the rate change and its impact on business processes.\nFor Company NS, I was responsible for drafting comprehensive test cases that covered various functional scenarios to ensure all business requirements were accurately validated. This included both positive and negative test cases, as well as edge-case validations.\nOnce the test cases were reviewed and finalized, I proceeded with the execution phase, where I systematically performed the tests, documented the outcomes, and collaborated with the development team to resolve any identified defects.",
     "Learned this week": "",
-    "Future work plans": "",
+    "Future work plans": "I was responsible for analyzing the requirements for the CT HOP rate change, which was scheduled to take effect on 11/02/2025. This involved a detailed review of the business specifications and regulatory guidelines associated with the rate update.\nI connect with business analysts to ensure a clear understanding of the changes and their impact on existing systems and processes. I also identified affected components and workflows, documented functional requirements, and got clarity about all doubts to understand all things properly.",
     "Reviewer Comments": ""
   },
   {
@@ -142,8 +142,8 @@
   {
     "Employee Name": "Sandip Banerjee",
     "Team": "QA",
-    "Client Name": "",
-    "Project Name": "",
+    "Client Name": "MSIG",
+    "Project Name": "Guidewire Implementation",
     "Work this week": "1. Create Policy at WINS - QA and UAT Env. for Guidewire Policy Center and Billing Center Integration Testing and also WINS Sunset Testing\n\n2. Create New Account and Update Existing Account at WINS for Testing of Account Integration Testing.",
     "Learned this week": "",
     "Future work plans": "Based on the Request from Policy Center and Billing Center Testing Team",
@@ -152,8 +152,8 @@
   {
     "Employee Name": "Seshi Reddy",
     "Team": "QA",
-    "Client Name": "",
-    "Project Name": "",
+    "Client Name": "MSIG",
+    "Project Name": "Underwriting Workbench",
     "Work this week": "1. Change the Default for Browse Files to Archive-Execution\n2. Convr to Outlook - Add Ability to Save Email as a 'DRAFT' in Convr-Execution\n3. Manager Referral - Ability to Attach Files Outside of UWWB- Design & Execution\n4. Defects Testing for S-32",
     "Learned this week": "",
     "Future work plans": "1. AI Training - Enhance Clearance extraction of Producer fields with Training of email content - email body and attachments-Design\n2. Defects Testing for S-32.\n3. Continues to working on the Regtression Testing for every Sprint.",
@@ -172,8 +172,8 @@
   {
     "Employee Name": "Subhajit Patra",
     "Team": "QA",
-    "Client Name": "",
-    "Project Name": "",
+    "Client Name": "Vermont",
+    "Project Name": "Run The Business",
     "Work this week": "Tested PL Rater[RTB-6413], Singlepoint[RTB-6412], \nAppian[RTB-6416], Product version [RTB-6414 &\nRTB-6415] portion of MA Homeowners rate change.\nCreated test cases and tested RTB-6662 \n[Correction to RI Homeowners Inflation Guard].\nCreated test cases for Dress Rehearsal testing for \nMA homeowners rate change.",
     "Learned this week": "",
     "Future work plans": "Analysing requirement of RTB-5010 [CT \nDwelling Fire Rate Chnage]. Then create test \nfor INOW nad Front end portion.",
@@ -182,8 +182,8 @@
   {
     "Employee Name": "Updendar Reddy",
     "Team": "QA",
-    "Client Name": "",
-    "Project Name": "",
+    "Client Name": "Field Pros Direct",
+    "Project Name": "Adjuster Locator",
     "Work this week": "1.Got the requirements for sprint 12\n2.Wrote the test cases based on the requirements\n3.Developers has deployed on QA\n4. Started executing the test cases and reporting the issues to the developers",
     "Learned this week": "",
     "Future work plans": "1.Planned to complete the testing and move to prod by friday\n2.Got the requirements for sprint 12.1\n3.Had a discussion on those requirements",
@@ -202,8 +202,8 @@
   {
     "Employee Name": "Ankit Kumar",
     "Team": "RPA",
-    "Client Name": "",
-    "Project Name": "",
+    "Client Name": "Cabrillo",
+    "Project Name": "RPA",
     "Work this week": "1. Completed the Agentic Automation Associate Training, which includes Automation Explorer with UiPath Studio Web and Building Agents.\n2. Explored the Automation Anywhere tool and build some test automations.",
     "Learned this week": "1. Improved understanding of Agentic Automation concepts, including system prompts, user prompts, and tool use via UiPath web.\n2. Enhanced practical knowledge in building automations on different platforms such as Power Automate and Automation Anywhere.",
     "Future work plans": "I will continue learning and exploring the Power Automate and Automation Anywhere tools.",
