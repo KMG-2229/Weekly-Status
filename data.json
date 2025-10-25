@@ -1,0 +1,252 @@
+[
+  {
+    "Employee Name": "Akash Singh",
+    "Client Name": "Ascot,Quincy",
+    "Project Name": "Ascot, Quincy",
+    "Work this week": "",
+    "Learned this week": "",
+    "Future work plans": "",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Apoorva Gupta",
+    "Client Name": "Vermont",
+    "Project Name": "VM- Wired",
+    "Work this week": "This week, I worked on tickets SEQ-3421, SEQ-3446, SEQ-3349, SEQ-3470, SEQ-3414, and SEQ-3346,  where I analyzed the requirements, designed relevant test cases, executed them, and raised the defects to validate the expected outcomes for the forms associated with the Businessowners Line of Business (LOB).",
+    "Learned this week": "N/A",
+    "Future work plans": "Continue testing activities for the Businessowners Line of Business (LOB) forms:\n1. Analyze newly developed or modified forms to understand their structure and business logic.\n2. Design comprehensive test scenarios and cases covering all input fields, validations, and dynamic behaviors.\n3. Execute test cases and validate the form functionality against the requirements and expected outcomes.\n4. Log and track any defects identified during testing, and perform retesting after fixes.",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Asis Kumar Saha",
+    "Client Name": "Vermont",
+    "Project Name": "Run The Business",
+    "Work this week": "RTB-6820 : NS - Add MA HO Flood Disclosure",
+    "Learned this week": "N/A",
+    "Future work plans": "HD-89060 : Market Rep Code needs to be added in WINS",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Atul Saraswat",
+    "Client Name": "Vermont",
+    "Project Name": "VM-Tosca Automation",
+    "Work this week": "This week, I completed the creation of the execution list for user stories TA-1004 and TA-1005, which cover DFA regression policies for the RI and CT states. In addition to that, I have also initiated the development work on user stories TA-1002 and TA-1003, focusing on DFA regression policies for the ME and NY states.",
+    "Learned this week": "N/A",
+    "Future work plans": "Next week, the plan is to continue the development activities for user stories TA-1002 and TA-1003, ensuring all test scripts are properly created, executed, and validated. I will also review and update the execution lists as needed to maintain consistency and coverage across different state policies.",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Ayan Gupta",
+    "Client Name": "Vermont",
+    "Project Name": "Run The Business",
+    "Work this week": "RTB - 6805 - Test Only - MA PAP Rate Change Effective 1/1/2026 - Obtain a Quote Through VM Front End - Test Case Creation & Execution\nRTB - 6804 - Test Only - MA PAP Rate Change effective 1/1/2026 - Obtain a Quote Through SinglePoint - Test Case Execution",
+    "Learned this week": "",
+    "Future work plans": "Dress Rehearsal Testing",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Divyendu Shekhar",
+    "Client Name": "Vermont",
+    "Project Name": "Nimbus",
+    "Work this week": "Did analysis and creation of test cases for the following stories.\nAX-6325 & AX-6375- for the Water backup coverage.\nAX-5489- for the location management screen where they are merging location and building information page into single page.\nAX-6145- INow mapping for the location address - which was not mapped correclty.",
+    "Learned this week": "N/A",
+    "Future work plans": "Once these stories gets deployed will start executing test cases. Also start analysing new stories.",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Kushal Khanra",
+    "Client Name": "Convelo",
+    "Project Name": "FRI Admitted Auto & Convelo Programs",
+    "Work this week": "Worked on editing the Quote Cover Letter for the Admitted Auto program as per UW's comments.\nAlso Provided assistance on defect management for the Client.",
+    "Learned this week": "Gained knowledge on how the forms are build and implemented in the IMS system.\nGained knowledge about the Taxes and Fees that are applied in US on E&S Programs\nExplored the basics of Insurance domain - Learned about the Flow of a policy Quote in Insurance..",
+    "Future work plans": "Focusing on providing assistance to Client as required related to the maintainenct of the Convelo Programs.",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Mahavir.Routhan",
+    "Client Name": "Internal",
+    "Project Name": "Quincy\nIMS\nEirion CPL Implementation\nCyber Security concepts & training",
+    "Work this week": "Co-ordinate with Quincy QA -manual and QA automation team, Attended project meetings, co-ordinate with Automation team to provide system support and manual team in Excel.\nIMS training was hold will resume from next week.\nAttended CPL implementation kick off meetings, Go through workflow session of Beyond code by BA team, Received Beyond Code documents\nCo-ordinate with Security training group, read topics of cookies, sessions, vulnerability, threats and risks. Discuss and explain the same ot group and share CIA ppt content for internal demo.\nAttended QA daily and weekly status meetings.",
+    "Learned this week": "Understanding how cookies work, types of cookies, sessions etc",
+    "Future work plans": "Will resume IMS related videos, Will check CPL project workflow and documents for Test planning activities. Continue with Security & Compliance testing training concepts.",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Nadeem Khan",
+    "Client Name": "Convelo",
+    "Project Name": "FRI Package\nFortegra DNO\nFI Non Profit\nSupport\nHAB GL\nKMG IMS",
+    "Work this week": "",
+    "Learned this week": "",
+    "Future work plans": "",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Pankaj Rawat",
+    "Client Name": "Vermont",
+    "Project Name": "INOW UPGRADE to KUFRI",
+    "Work this week": "I am worked on kufri Inow upgrade and the requirement RTB-6123,  advance option fixed if there is validation error then a new attachment retains it's state.",
+    "Learned this week": "Understood the functionality of Advance option ",
+    "Future work plans": "Will work on another Inow upgrade kufri Open tickets",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Pooja Kholiya",
+    "Client Name": "Vermont",
+    "Project Name": "Nimbus",
+    "Work this week": "I am analysing and creating the test cases for the following tickets:\nAX-6540- MA application- Add additional insured- Controlling interest.\nAX- 5731- Location Details- location level deductible- windstorm deductible.",
+    "Learned this week": "NA",
+    "Future work plans": "Will execute the test cases once deployed.",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Praveen Kumar",
+    "Client Name": "Quincy",
+    "Project Name": "Agency Port Interfaces (Ezlynx) & \nRating Rewrite with Python",
+    "Work this week": "1. Creating the Quotes for the Ezlynx Application for PAP ME State\n2. Working on Data Validation for Automation Polices and for RI State",
+    "Learned this week": "I have learned about how to do Data Sorting and filter out multiple datasets from Large datasets in Excel ",
+    "Future work plans": "Creating the new Quotes for Ezlynx PAP testing. Need to create 35 Quotes for Ezlynx ME state with PAP Lob,",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Richa Trivedi",
+    "Client Name": "Quincy",
+    "Project Name": "Rating Rewrite with Python",
+    "Work this week": "1. Started creating a test dataset for PAP CT State. Completed 50 test data with unique scenarios for 1 Driver & 1 Vehicle.\n2. Corrected the test datasets for 3 Drivers & 1 vehicle scenarios, 4D & 6V and 1D & 1V. \n3. Created a failed test dataset analysis and documented my observations.",
+    "Learned this week": "",
+    "Future work plans": "Completing more test datasets for PAP CT State for remaining scenarios.",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Rishab Tyagi",
+    "Client Name": "Fortegra",
+    "Project Name": "Fortegra-Motorclubs",
+    "Work this week": "Worked on Re-Testing of the JIRA Improvement/Bugs/Enhancements tickets raised After the Go-Live,  Re-tested the fixed tickets in the UAT Environment and ensured that the current fixes do not hamper the existing functionality of the system. After restesting updated the Tickets Status in JIRA as per the Re-testing results. Once Ticket is deployed to PROD perform the Smoke Test  on PROD which involves verifying the stability of key functionalities within the allowed constraints. Since we cannot create new records or modify existing data in the production environment,  validated the deployed changes by performing a limited-scope sanity check. This includes checking the impacted modules or screens , primarily covering UI, navigation, access permissions, and any specific areas touched by the latest release.\nI attended Weekly Project Updates Meetings to Share the update and to stay aligned with the team's progress ",
+    "Learned this week": "Through this task, I developed a deeper understanding of the real-time QA lifecycle and the importance of maintaining system stability post-deployment. Key learnings include -\nImproved proficiency in using JIRA for tracking ticket status and collaborating across teams.Understood the criticality of Smoke Testing in PROD, where validation needs to be precise and low-risk.Learned to identify and validate changes through limited-scope sanity checks, focusing on UI, navigation, permissions, and impacted modules.Enhanced my communication and collaboration skills by actively participating in weekly project update meetings, ensuring alignment with the broader team goals.",
+    "Future work plans": "Take initiative in test case creation and optimization, especially for regression and sanity testing scenarios.\nCollaborate more with the dev and product teams to identify bugs early and improve release quality.\nContinue upskilling to make better defect reports",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Sandip Banerjee",
+    "Client Name": "MSIG",
+    "Project Name": "Guidewire Implementation",
+    "Work this week": "1. Create Policy at WINS - QA for Guidewire Policy Center and Billing Center Integration Testing which are rquire for WINS to CC for Non-WCA Policy.\n\n2. Validate Claim at WINS. The Claim come from Claim Center",
+    "Learned this week": "",
+    "Future work plans": "Based on the Request from Policy Center and Billing Center Testing Team",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Seshi Reddy",
+    "Client Name": "MSIG",
+    "Project Name": "Underwriting Workbench / Claim Center",
+    "Work this week": "1. Claim Center Regression test\n2. IM support-Add new field vessel name in UWWB_Design\n3. Builders Product-Add field Project Address in UWWB_Design\n4. PRC Onboarding-Make Insured State/Province Non Mandatory field in Convr_Design",
+    "Learned this week": "",
+    "Future work plans": "1. Foundational-Render email in archive folder when user drag/drop emails_Design & Execution\n2. IM support-Add new field vessel name in UWWB_Execution\n3. Builders Product-Add field Project Address in UWWB_Execution\n4. PRC Onboarding-Make Insured State/Province Non Mandatory field in Convr_Execution\n5. Manager Referral - Ability to Send Referrals from 'Cleared' Status_Design & Execution\n6. Sprint 37 defects Testing\n ",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Srishti Lal",
+    "Client Name": "Vermont",
+    "Project Name": "Beech Nuts",
+    "Work this week": "1. Worked on RTB-6352 i.e. while selecting multiple subscription list and setting delivery method if a user change the value of one delivery method then other subscription list delivery method should retain their value reported a defect for it as the dropdown values are different for all subscription list.\n2.Created test cases for RTB-6115 i.e. In INOW UAT3 the option \"Only show providers that matches with the territory\" option has been removed from the Claim provider lookup section under User management user type \"Company claims\" or \"Providers\" but the same option will be available in UAT2. Execution is on hold as I have asked for \"Provider\" user to execute the test step.\n3. Worked on on RTB-6094 i.e. related to password format for different uses as INOW will not allow users (Standard and Exempt) to have a common password. It will display error message if the password does not meet the format provided. I have updated the test cases as per the system update and raised a query to get another user to execute the test cases as for Exempt user I need another user ID to verify the password format error message. \n4. Completed RTB-6137 i.e. an issue is fixed in INOW that after creating a claim adjusting reserves  and after making payment if a user correct the any field in the payments page the payment amount should remain same.",
+    "Learned this week": "",
+    "Future work plans": "1. Will continue the execution for RTB- 6352, RTB- 6115 and RTB-6094 as I will get the resolution (i.e. User ID's of required users).\n2. Will work on RTB-6153 related to issue fixed of validation error when after entering policy and finalizing the claim if we remove the mortgage in subsequent the it should work fine.\n3. Will review a few migrated BOP policies from WINS to INOW.\n4. Pick some other ticket to work on for INOW upgrade.",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Subhajit Patra",
+    "Client Name": "Vermont",
+    "Project Name": "Run The Business",
+    "Work this week": "Completed the Testing for RTB-6803[ MA PAP Rate Change-INOW Portion.]\nCompleted the Dress Rehearsal Testing for RTB-6803[ MA PAP Rate Change-INOW Portion.]\nCreated quotes for RTB-6857[VM-Add MA DF Flood Disclosure]",
+    "Learned this week": "",
+    "Future work plans": "I will test INOW Upgrade related tickets[RTB-6077]",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Upendar Reddy",
+    "Client Name": "Field Pros Direct",
+    "Project Name": "Adjuster Locator",
+    "Work this week": "1.I have completed the UAT testing for sprint 13 \n2.Waiting for client approval to move to prod\n3.The client raised an issue in UAT and emailed us regarding it. However, the issue is not valid, so I prepared a detailed explanation document describing how the display logic works and shared it with the client.\n",
+    "Learned this week": "",
+    "Future work plans": "1.The development team has implemented an error logs section based on Prakash’s suggestion. I will proceed to test the functionality\n",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Vinay",
+    "Client Name": "PIT CREW",
+    "Project Name": "VERMONT",
+    "Work this week": "Preparing the test plan for the req RTB- 6351 WEB PATH ERROR WHILE DURING THE ADJUSTMANTS transaction ",
+    "Learned this week": "",
+    "Future work plans": "once deployed will start test for the same ",
+    "Reviewer Comments": "",
+    "Team": "QA"
+  },
+  {
+    "Employee Name": "Ankit Kumar",
+    "Client Name": "Agent AI POC & Quincy",
+    "Project Name": "RPA",
+    "Work this week": "1. Completed the development and testing of Agency Experience Report bot.\n2. Worked on the development of Loss Run Report automation.",
+    "Learned this week": "Gained a better understanding of using Invoke Code activities in UiPath to handle complex logic to avoid selector issues and reduce automation runtime.",
+    "Future work plans": "Continue to work on the testing of the Loss Run Report and the development of the remaining two Quincy bots.",
+    "Reviewer Comments": "",
+    "Team": "RPA"
+  },
+  {
+    "Employee Name": "Kamakshi Tewari",
+    "Client Name": "Agent AI POC",
+    "Project Name": "RPA",
+    "Work this week": "Created poc ready code for generating test data as per user's requirement.",
+    "Learned this week": "I learned deep structural formatting using python for the POC build up.",
+    "Future work plans": "Continuing to work on formatting fields and creating chat bot.",
+    "Reviewer Comments": "",
+    "Team": "RPA"
+  },
+  {
+    "Employee Name": "Mudita Jain",
+    "Client Name": "Loss Run & Agent AI POC & Quincy",
+    "Project Name": "RPA",
+    "Work this week": "Exctracted the data from the provides Loss Run files and added few activities in the build up process & Initiated development.",
+    "Learned this week": "I learnt formatting structure of fields using python.",
+    "Future work plans": "Continue to work on the documentation of Quincy bots.",
+    "Reviewer Comments": "",
+    "Team": "RPA"
+  },
+  {
+    "Employee Name": "Shubham Dhyani",
+    "Client Name": "Quincy",
+    "Project Name": "Quincy Automation PAP",
+    "Work this week": "1. Tested 25 test sets for 1d1v for Connecticut state.\n2. Completed Testing for corrected data for 2d1v, reported bugs to Dev team.\n3. Tested 25 test sets for 4d6v for Corrected Data.",
+    "Learned this week": "I explored Power Apps",
+    "Future work plans": "I will contnue to Test for New Business and subsequent transactions for ME and CT state and update the scripts if any change occurs.",
+    "Reviewer Comments": "",
+    "Team": "RPA"
+  },
+  {
+    "Employee Name": "Susmita Chakraborty",
+    "Client Name": "Merchants Insurance Group Inc.",
+    "Project Name": "Dot Net Quote and Issue process",
+    "Work this week": "Created automation for the WC and CAP Quoting and Issuing process.",
+    "Learned this week": "I learned how to issue a binder after the quote creation process.",
+    "Future work plans": "I am continuing to build automation for the Quote and Issue process for different LOB's.",
+    "Reviewer Comments": "",
+    "Team": "RPA"
+  }
+]
