@@ -45,7 +45,7 @@
         }
 
         .sidebar {
-            width: 250px; /* MODIFIED: Reduced sidebar width */
+            width: 250px;
             flex-shrink: 0;
             background-color: var(--bg-sidebar);
             padding: 40px 20px;
@@ -369,7 +369,15 @@
             fetch(DATA_JSON_URL) 
                 .then(response => {
                     if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
-                    return response.json(); 
+                    // Fetch as raw bytes (ArrayBuffer) to handle encoding manually
+                    return response.arrayBuffer(); 
+                })
+                .then(buffer => {
+                    // Decode the buffer as UTF-16LE
+                    const decoder = new TextDecoder('utf-16le');
+                    const text = decoder.decode(buffer);
+                    // Now parse the clean JSON text
+                    return JSON.parse(text); 
                 })
                 .then(data => {
                     renderDashboard(data);
